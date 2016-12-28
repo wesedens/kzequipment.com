@@ -1,0 +1,7 @@
+# Logs
+logs
+*.log
+
+system/storage/cache
+image/cache
+image/catalog
